@@ -132,7 +132,7 @@ GameObject:
   - component: {fileID: 362772260}
   - component: {fileID: 362772259}
   m_Layer: 0
-  m_Name: Cube
+  m_Name: CubeFrame
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -370,7 +370,7 @@ GameObject:
   - component: {fileID: 1153799818}
   - component: {fileID: 1153799817}
   m_Layer: 0
-  m_Name: Cube (2)
+  m_Name: DissolbeCube
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -481,7 +481,7 @@ GameObject:
   - component: {fileID: 1397764475}
   - component: {fileID: 1397764474}
   m_Layer: 0
-  m_Name: Cube (1)
+  m_Name: ChangeColor
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
